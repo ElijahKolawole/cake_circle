@@ -1,5 +1,26 @@
 body{
+	 min-width: 360px;
 	//background-color: #80450C;
 	background-image: linear-gradient(to top, #EF0E0E, #F45A5A,  #FFFFFF );
 	font-family: "Proxima Nova", "Helvetica Neue", "Helvetica", "Arial", "sans-serif";
+
+}
+
+#cake_text{
+	font-family: Comic Sans MS, Comic Sans, cursive; 
+	font-weight: bolder; 
+	color: #000000;
+	padding-bottom: 10px;
+}
+.btm-text{
+	padding-top: 20px;
+	
+
+}
+.btm-btn{
+ 
+
+}
+.empty_div{
+height: 180px;
 }
